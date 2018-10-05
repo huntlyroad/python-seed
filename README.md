@@ -1,1 +1,1 @@
-# Lightwave Analytics Process
+# A Python Seed Project
